@@ -2,9 +2,9 @@
   "name": "little-lemon-meta-frontend-capstone",
   "version": "0.2.0",
   "private": true,
-  "author": "Jayanta Samaddar <jayanta@zenius.one>",
+  "author": "Mujahid",
   "main": "index.js",
-  "respository": "https://github.com/jayantasamaddar/little-lemon-meta-frontend-capstone.git",
+  "respository": "",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-solid-svg-icons": "^6.2.1",
